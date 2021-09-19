@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScientistList</string>
+
+    <string-array name="scientist_type">
+        <item>Physicists</item>
+        <item>Mathematicians</item>
+        <item>Computer Scientists</item>
+    </string-array>
+
+</resources>
